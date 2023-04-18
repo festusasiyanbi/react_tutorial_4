@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "This is my latest title",
+      "datetime": "April 18, 2023 1:20:52 AM",
+      "body": "just checking"
+    },
+    {
+      "id": 3,
+      "title": "My third title",
+      "datetime": "April 14, 2023 11:38:57 PM",
+      "body": "dfdfhjsfgew fdsgfwfaz wv df xw nfehfgeyz. efwdsbv xfefw hxwefruwefsdvbnfvewnvb xdyfwen sxenfwh"
+    },
+    {
+      "id": 4,
+      "title": "Tunde is here",
+      "datetime": "April 17, 2023 4:04:42 PM",
+      "body": "He just finished eating pounded yam"
+    }
+  ]
+}
